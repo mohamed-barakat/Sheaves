@@ -15,3 +15,7 @@ Versions:
 examples: 040fa19 renamed IsLocalRing -> IsLocal
 
 Versions:
+
+gap: 040fa19 renamed IsLocalRing -> IsLocal
+
+Versions:
