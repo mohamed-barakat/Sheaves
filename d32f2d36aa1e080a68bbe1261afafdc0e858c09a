@@ -17,3 +17,8 @@ AutomaticDocumentation/: 98f72ff Merge pull request #1 from sebasguts/master
 
 Versions:
 2012.08.06 which is Sebas' version
+
+D-Modules/: 7df6283 comply with the new GAPDoc testing methods
+
+Versions:
+ 2012.06.28
