@@ -81,3 +81,8 @@ HomalgToCAS/: 65b286b InitializeMacros now supports '!'-entries for init_strings
 
 Versions:
  2013.01.10
+
+IO_ForHomalg/: a45abd8 updated manual.css
+
+Versions:
+ 2012.10.22
