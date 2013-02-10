@@ -115,3 +115,10 @@ MapleForHomalg/: 6d099de comply with the new GAPDoc testing methods
 
 Versions:
  2011.07.25
+
+MatricesForHomalg/: f61db25 support RP!.AreEqualMatrices for internal matrices
+
+Versions:
+2011.12.05 which is Markus' version
+2013.01.10 which is Mohamed's version
+2012.10.17 which is Sebas' version
