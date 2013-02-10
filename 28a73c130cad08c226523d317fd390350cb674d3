@@ -122,3 +122,11 @@ Versions:
 2011.12.05 which is Markus' version
 2013.01.10 which is Mohamed's version
 2012.10.17 which is Sebas' version
+
+Modules/: 6937612 FittingIdeal now caches the results in M rather than PresentationMorphism( M )
+
+Versions:
+2013.02.05 which is Mohamed's version
+2012.10.22 which is Markus' version
+2011.07.20 which is Florian's version
+2012.10.17 which is Sebas' version
