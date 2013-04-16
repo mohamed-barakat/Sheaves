@@ -142,3 +142,12 @@ PolymakeInterface/: f6c2397 New documentation.
 
 Versions:
 2013.03.19 which is Sebas' version
+
+RingsForHomalg/: b43d790 removed GAP4.4 legacy stuff from init.g and read.g
+
+Versions:
+2011.09.12 which is Markus L-H's version
+2011.06.16 which is Markus K's version
+2013.04.10 which is Mohamed's version
+2011.12.13 which is Andreas's version
+2012.12.11 which is Sebas' version
