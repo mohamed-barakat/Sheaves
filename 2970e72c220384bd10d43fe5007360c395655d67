@@ -87,3 +87,8 @@ HomalgToCAS/: f3aa858 LoadHomalgMatrixFromFile now handles finite fields
 
 Versions:
  2013.06.19
+
+IO_ForHomalg/: a45abd8 updated manual.css
+
+Versions:
+ 2012.10.22
