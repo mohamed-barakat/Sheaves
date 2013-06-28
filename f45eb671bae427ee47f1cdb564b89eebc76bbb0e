@@ -53,3 +53,8 @@ Gauss/: 158ac49 Display method for IsSparseMatrix now works with finite fields
 
 Versions:
  2013.06.25
+
+GaussForHomalg/: f7a1e26 further code simplification in GaussForHomalg.gi
+
+Versions:
+ 2012.10.22
