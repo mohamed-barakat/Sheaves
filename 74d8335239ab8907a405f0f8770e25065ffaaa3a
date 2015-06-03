@@ -79,3 +79,7 @@ ExamplesForHomalg/: a02f438 the affine twisted cubic *is* an ideal-theoretic CI
 
 Versions:
  2013.07.06
+
+ForgetfulFunctor/: 775fd5e GetGenerators( h ){[1..2]} -> {[1,81]}
+
+Versions:
