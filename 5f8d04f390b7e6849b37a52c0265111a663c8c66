@@ -74,3 +74,8 @@ D-Modules/: 43c0d8e declared and installed AssociatedSystem for maps
 
 Versions:
  2015.02.25
+
+ExamplesForHomalg/: a02f438 the affine twisted cubic *is* an ideal-theoretic CI
+
+Versions:
+ 2013.07.06
