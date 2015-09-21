@@ -81,3 +81,7 @@ Versions:
 GAP/:
 
 Versions:
+
+homalg_project/: e045e66 renamed GeneralizedInverse -> InverseOfGeneralizedMorphismWithFullDomain
+
+Versions:
