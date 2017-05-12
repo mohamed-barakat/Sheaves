@@ -103,3 +103,8 @@ Versions:
 homalg_project/: 038e7b5 if IsBound( MakeThreadLocal ) then Perform( [ ... ], MakeThreadLocal ); fi;
 
 Versions:
+
+HomalgToCAS/: a303b94 added missing Add( used_pointers, t ) in homalgCreateStringForExternalCASystem
+
+Versions:
+ 2015.03.20
